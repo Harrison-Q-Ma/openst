@@ -55,6 +55,7 @@ to create a database of barcode sequences and their spatial locations.
 | Reagent | Final concentration | Volume (μL) |
 |----|----|----|
 |ExoI|1 U/μL|5|
+|CIAP|0.05 U/μL|0.25|
 |10X ExoI buffer|1x|10|
 |Ultrapure water||85|
 
